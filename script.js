@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             desc: "Deep, ambient soundscapes to help you drift into restful sleep.",
             url: "https://www.youtube.com/playlist?list=PLo3pNg0eiPc_JHZ-1jjCYbup7_rT3CBl8",
             // UPDATED IMAGE: A calming night sky with a crescent moon
-            image: "https://unsplash.com/photos/white-cat-sleeps-under-white-comforter-uy5t-CJuIK4"
+            image: "https://images.unsplash.com/photo-1530092285049-1c42085fd395"
         },
         {
             title: "Gym Phonk",
